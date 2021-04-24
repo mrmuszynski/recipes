@@ -1,36 +1,36 @@
-# Boil
-## 6 cups Chickenless Broth
+#### Boil
+* 6 cups Chickenless Broth
 
-# Seitan (Dry Ingredients)
-## 2 cups vital wheat gluten
-## 1/2 cup nutritional yeast
-## 2 tsp paprika
-## 2 tsp garlic powder
-## 2 tsp onion powder
-## 1 tbsp parsley
+#### Seitan (Dry Ingredients)
+* 2 cups vital wheat gluten
+* 1/2 cup nutritional yeast
+* 2 tsp paprika
+* 2 tsp garlic powder
+* 2 tsp onion powder
+* 1 tbsp parsley
 
-# Seitan (Wet Ingredients)
-## 1 1/2 cup vegetable broth
-## 2 tbsp soy sauce
-## 1/4 tsp MSG
+#### Seitan (Wet Ingredients)
+* 1 1/2 cup vegetable broth
+* 2 tbsp soy sauce
+* 1/4 tsp MSG
 
-## Marinade
-# 2 eggs
-# 1 Tbsp rice wine vinegar
-# 1 Tbsp mirin
+#### Marinade
+* 2 eggs
+* 1 Tbsp rice wine vinegar
+* 1 Tbsp mirin
 
-# Fry
-## 6 cups Frying Oil
+#### Fry
+* 6 cups Frying Oil
 
-## Dry Dredge
-# 1 Cup Rice flour
-# 2 tsp kosher salt
-# 1/2 tsp baking powder
-# 1/4 tsp MSG
-# 1/2 tsp pepper
+#### Dry Dredge
+* 1 Cup Rice flour
+* 2 tsp kosher salt
+* 1/2 tsp baking powder
+* 1/4 tsp MSG
+* 1/2 tsp pepper
 
 
-# Procedure
+#### Procedure
 1. Bring broth to a boil. As it's coming to temperature, make seitan
 2. Mix dry seitan ingredients
 3. Mix wet seitan ingredients
